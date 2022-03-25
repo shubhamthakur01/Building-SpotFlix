@@ -1,2 +1,2 @@
-# Building-SpotFlix
-A scalable song recommender system based on the data for over a million songs and user's listening history
+# Million-Song-Project
+<img src="/images/recommender.gif" alt=""  width="800" height="400"/>
