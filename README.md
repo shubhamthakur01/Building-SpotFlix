@@ -1,2 +1,3 @@
 # Million-Song-Project
-<img src="/images/recommender.gif" alt=""  width="800" height="400"/>
+
+A scalable song recommender system by processing around a terabyte of data for over a million songs and users with distributed computing tools such as Pyspark, MongoDB and Databricks
